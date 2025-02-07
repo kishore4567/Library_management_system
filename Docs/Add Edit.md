@@ -6,10 +6,8 @@ Allows librarians to enter new books, modify existing ones, or manage book borro
 ### 🔹 Features  
 
 - **Book Title Field** – Name of the book (e.g., “To Kill a Mockingbird”).  
-- **Author Input Field** – Enter the author's name.  
-- **Category Selection (Dropdown)** – Fiction, Non-fiction, Science, History, etc.  
+- **Author Input Field** – Enter the author's name.   
 - **Publication Date Picker** – Select the book's publication date.  
-- **ISBN Input Field** – Enter the book’s ISBN number.  
 - **Availability Status** – Mark whether the book is available or borrowed.  
 - **Borrow Book Option** – Allows users to request to borrow a book.  
 - **Return Date Picker** – Select the expected return date (only available for borrowed books).  

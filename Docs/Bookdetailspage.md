@@ -8,9 +8,7 @@ Provides an in-depth view of a specific book in the library catalog.
 #### **Book Information Display:**  
 - **Title:** Displays the book's title.  
 - **Author:** Shows the author's name.  
-- **Category:** Fiction, Non-fiction, Science, History, etc.  
 - **Publication Date:** Displays the book’s release date.  
-- **ISBN Number:** Unique identifier for the book.  
 - **Availability Status:** Indicates if the book is available or borrowed.  
 - **Borrower Information (if applicable):** Shows the name of the user who borrowed it and the due date.  
 
